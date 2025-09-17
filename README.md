@@ -7,8 +7,9 @@ Automate a workflow using **Apache Airflow** to process daily incoming CSV files
 ---
 
 ## 📂 Project Structure
-├── airflow_job.py # Airflow DAG definition
+├── airflowjob.py # Airflow DAG definition
 ├── employee_batch.py # PySpark job script
+├── employee.csv 
 └── README.md # Project documentation
 
 
